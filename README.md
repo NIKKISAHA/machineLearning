@@ -1,3 +1,3 @@
-# dataStructure
+#machineLearning
 
-this repo is for my data structure practise codes
+this repo is for machine learning files
